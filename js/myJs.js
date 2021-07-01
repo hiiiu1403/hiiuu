@@ -108,7 +108,6 @@ $('#yes').click(function() {
               left top
               no-repeat
             `,
-        showCancelButton: true,
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonColor: '#fe8a71',
